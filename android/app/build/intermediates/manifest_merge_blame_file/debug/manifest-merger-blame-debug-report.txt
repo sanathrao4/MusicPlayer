@@ -1,0 +1,157 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mymusicplayer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.125.0] /home/river-sanjay/.gradle/caches/transforms-3/8b5bb1cbb88618ed759add4842d81df6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.125.0] /home/river-sanjay/.gradle/caches/transforms-3/8b5bb1cbb88618ed759add4842d81df6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-68
+14-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-65
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+15-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-77
+15-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-74
+16
+17    <queries>
+17-->[androidx.test:runner:1.4.0] /home/river-sanjay/.gradle/caches/transforms-3/b87c4209ac76827c7bea36eef6467ce7/transformed/runner-1.4.0/AndroidManifest.xml:24:5-28:15
+18        <package android:name="androidx.test.orchestrator" />
+18-->[androidx.test:runner:1.4.0] /home/river-sanjay/.gradle/caches/transforms-3/b87c4209ac76827c7bea36eef6467ce7/transformed/runner-1.4.0/AndroidManifest.xml:25:9-62
+18-->[androidx.test:runner:1.4.0] /home/river-sanjay/.gradle/caches/transforms-3/b87c4209ac76827c7bea36eef6467ce7/transformed/runner-1.4.0/AndroidManifest.xml:25:18-59
+19        <package android:name="androidx.test.services" />
+19-->[androidx.test:runner:1.4.0] /home/river-sanjay/.gradle/caches/transforms-3/b87c4209ac76827c7bea36eef6467ce7/transformed/runner-1.4.0/AndroidManifest.xml:26:9-58
+19-->[androidx.test:runner:1.4.0] /home/river-sanjay/.gradle/caches/transforms-3/b87c4209ac76827c7bea36eef6467ce7/transformed/runner-1.4.0/AndroidManifest.xml:26:18-55
+20        <package android:name="com.google.android.apps.common.testing.services" />
+20-->[androidx.test:runner:1.4.0] /home/river-sanjay/.gradle/caches/transforms-3/b87c4209ac76827c7bea36eef6467ce7/transformed/runner-1.4.0/AndroidManifest.xml:27:9-83
+20-->[androidx.test:runner:1.4.0] /home/river-sanjay/.gradle/caches/transforms-3/b87c4209ac76827c7bea36eef6467ce7/transformed/runner-1.4.0/AndroidManifest.xml:27:18-80
+21    </queries>
+22
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /home/river-sanjay/.gradle/caches/transforms-3/5b7897a6a72c156a8332e511658047c5/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+23-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /home/river-sanjay/.gradle/caches/transforms-3/5b7897a6a72c156a8332e511658047c5/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:22-76
+24
+25    <permission
+25-->[androidx.core:core:1.9.0] /home/river-sanjay/.gradle/caches/transforms-3/85676f30a85febbaba3d0aa14e48c38e/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+26        android:name="com.mymusicplayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+26-->[androidx.core:core:1.9.0] /home/river-sanjay/.gradle/caches/transforms-3/85676f30a85febbaba3d0aa14e48c38e/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+27        android:protectionLevel="signature" />
+27-->[androidx.core:core:1.9.0] /home/river-sanjay/.gradle/caches/transforms-3/85676f30a85febbaba3d0aa14e48c38e/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+28
+29    <uses-permission android:name="com.mymusicplayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+29-->[androidx.core:core:1.9.0] /home/river-sanjay/.gradle/caches/transforms-3/85676f30a85febbaba3d0aa14e48c38e/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+29-->[androidx.core:core:1.9.0] /home/river-sanjay/.gradle/caches/transforms-3/85676f30a85febbaba3d0aa14e48c38e/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+30
+31    <application
+31-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:6:5-25:19
+32        android:name="com.mymusicplayer.MainApplication"
+32-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:7:7-38
+33        android:allowBackup="false"
+33-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:11:7-34
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] /home/river-sanjay/.gradle/caches/transforms-3/85676f30a85febbaba3d0aa14e48c38e/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:9:7-41
+37        android:label="@string/app_name"
+37-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:8:7-39
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:10:7-52
+39        android:theme="@style/AppTheme"
+39-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:12:7-38
+40        android:usesCleartextTraffic="true" >
+40-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/debug/AndroidManifest.xml:8:9-44
+41        <activity
+41-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/debug/AndroidManifest.xml:11:9-111
+42            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+42-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/debug/AndroidManifest.xml:11:19-83
+43            android:exported="false" />
+43-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/debug/AndroidManifest.xml:11:84-108
+44        <activity
+44-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:13:7-24:18
+45            android:name="com.mymusicplayer.MainActivity"
+45-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:14:9-37
+46            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+46-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:16:9-118
+47            android:exported="true"
+47-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:19:9-32
+48            android:label="@string/app_name"
+48-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:15:9-41
+49            android:launchMode="singleTask"
+49-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:17:9-40
+50            android:windowSoftInputMode="adjustResize" >
+50-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:18:9-51
+51            <intent-filter>
+51-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:20:9-23:25
+52                <action android:name="android.intent.action.MAIN" />
+52-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:21:13-65
+52-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:21:21-62
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:22:13-73
+54-->/home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/android/app/src/main/AndroidManifest.xml:22:23-70
+55            </intent-filter>
+56        </activity> <!-- The main service, handles playback, playlists and media buttons -->
+57        <service
+57-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-22:19
+58            android:name="com.doublesymmetry.trackplayer.service.MusicService"
+58-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-79
+59            android:enabled="true"
+59-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-35
+60            android:exported="false" >
+60-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+61            <intent-filter>
+61-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-21:29
+62                <action android:name="android.intent.action.MEDIA_BUTTON" />
+62-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:17-77
+62-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:25-74
+63            </intent-filter>
+64        </service> <!-- A receiver that will receive media buttons. Required on pre-lollipop devices -->
+65        <receiver
+65-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-31:20
+66            android:name="androidx.media.session.MediaButtonReceiver"
+66-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-70
+67            android:exported="true" >
+67-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-36
+68            <intent-filter>
+68-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-21:29
+69                <action android:name="android.intent.action.MEDIA_BUTTON" />
+69-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:17-77
+69-->[:react-native-track-player] /home/river-sanjay/Desktop/Sanath_Workspace/zzz/MyMusicPlayer/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:25-74
+70            </intent-filter>
+71        </receiver>
+72
+73        <provider
+73-->[androidx.emoji2:emoji2:1.0.0] /home/river-sanjay/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+74            android:name="androidx.startup.InitializationProvider"
+74-->[androidx.emoji2:emoji2:1.0.0] /home/river-sanjay/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+75            android:authorities="com.mymusicplayer.androidx-startup"
+75-->[androidx.emoji2:emoji2:1.0.0] /home/river-sanjay/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+76            android:exported="false" >
+76-->[androidx.emoji2:emoji2:1.0.0] /home/river-sanjay/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+77            <meta-data
+77-->[androidx.emoji2:emoji2:1.0.0] /home/river-sanjay/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+78                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+78-->[androidx.emoji2:emoji2:1.0.0] /home/river-sanjay/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+79                android:value="androidx.startup" />
+79-->[androidx.emoji2:emoji2:1.0.0] /home/river-sanjay/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+80            <meta-data
+80-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/river-sanjay/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+81                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+81-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/river-sanjay/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+82                android:value="androidx.startup" />
+82-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/river-sanjay/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+83        </provider>
+84    </application>
+85
+86</manifest>
